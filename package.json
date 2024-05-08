@@ -1,0 +1,14 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "A simple searchable spellbook ",
+  "homepage": "https://dgerrells.github.io/5e-spells",
+  "keywords": [],
+  "dependencies": {
+  },
+  "scripts": {
+    "build": "",
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {}
+}
